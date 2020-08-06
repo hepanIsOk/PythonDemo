@@ -1,4 +1,5 @@
 print("jump 7")
+print("test")
 for i in range(101):
 	if i%7==0:
 		continue
